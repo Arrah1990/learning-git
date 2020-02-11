@@ -109,3 +109,6 @@
 	
 </body>
 </html>
+
+date_default_timezone_set ( "America/Chicago" );
+$timeOfDay = date('H');
